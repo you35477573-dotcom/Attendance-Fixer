@@ -1,2 +1,4 @@
-# Attendance-Fixer
-برنامج تعديل ورديات يوسف باشا
+streamlit
+openpyxl
+plotly
+requests
